@@ -1,5 +1,5 @@
-SecureSheetAccess
-SecureSheetAccess is a Google Apps Script that secures Google Spreadsheets with strict user authentication, fast edit reversion, a detailed audit trail, and automatic logout after inactivity. Designed for shared environments, it ensures only authorized users can edit the spreadsheet, with all actions logged for accountability.
+SheetGuard
+SheetGuard is a Google Apps Script that secures Google Spreadsheets with strict user authentication, fast edit reversion, a detailed audit trail, and automatic logout after inactivity. Designed for shared environments, it ensures only authorized users can edit the spreadsheet, with all actions logged for accountability.
 Features
 
 Strict Login Enforcement: Requires username/password login to access the spreadsheet; unauthorized users are blocked.
@@ -128,5 +128,5 @@ License
 This project is licensed under the MIT License. See the LICENSE file for details.
 Contact
 For issues, suggestions, or questions, open an issue on this repository or contact the maintainer via GitHub.
-Maintained,Built & Deployed By Ankith - ankithx7@gmail.com
-Built for secure, shared spreadsheet management. Protect your data with SecureSheetAccess!
+
+Built for secure, shared spreadsheet management. Protect your data with SheetGuard!
